@@ -1,8 +1,3 @@
-/*******************************************************************************
- *@file gulpfile.js contains details of all gulp tasks required
- *
- *@author : sapient
- ******************************************************************************/
 'use strict';
 
 var gulp = require('gulp');

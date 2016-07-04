@@ -1,6 +1,6 @@
 {
   "name": "loopback-audit-trail",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Component to add audit trail capability to loopback projects",
   "main": "index.js",
   "scripts": {},
