@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/yantrashala/loopback-audit-trail.svg?branch=master)]
+[![Build Status](https://travis-ci.org/yantrashala/loopback-audit-trail.svg?branch=master)](https://travis-ci.org/yantrashala/loopback-audit-trail)
 
 # loopback-audit-trail
 A component to add audit trail capability to loopback projects
