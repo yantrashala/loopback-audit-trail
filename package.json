@@ -10,7 +10,8 @@
     "url": "https://github.com/yantrashala/loopback-audit-trail"
   },
   "dependencies": {
-    "bunyan": "~1.8.1"
+    "bunyan": "~1.8.1",
+    "loopback-context": "^3.3.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
